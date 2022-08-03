@@ -1,0 +1,21 @@
+#logoAP{
+  width: 180px;
+}
+#Facebook{
+  width: 60px;
+  float: right;
+  margin-top: 20px;
+  margin-right: 3px;
+}
+#GitHub{
+  width: 50px;
+  float: right;
+  margin-top: 23px;
+  margin-right: 3px;
+}
+#LinkedIn{
+  width: 60px;
+  float: right;
+  margin-top: 21px;
+  margin-right: 3px;
+}
